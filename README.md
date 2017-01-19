@@ -5,3 +5,9 @@
 * Optimization and Regularization
 * Restricted Boltzmann Machine and Deep Belief Network
 * Auto-encoders
+
+## Part 2
+* Overview of Convolutional Neural Network
+* Modern Convolutional Neural Network Architectures
+* State of the Art CNN Architectures for Classification
+* CNN Architectures for Object Localization and Detection
