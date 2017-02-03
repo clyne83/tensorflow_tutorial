@@ -11,3 +11,10 @@
 * Modern Convolutional Neural Network Architectures
 * State of the Art CNN Architectures for Classification
 * CNN Architectures for Object Localization and Detection
+
+## Part 3
+* Review of Convolutional Neural Network
+* Google Cloud APIs Hands On
+* Convolutional Neural Networks for Semantic Segmentaion
+* Weakly Supervised Learning for Object Localization
+* Generative Adversarial Networks
